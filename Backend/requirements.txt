@@ -1,0 +1,8 @@
+# Backend Requirement
+fastapi
+uvicorn
+httpx
+# Frontend
+streamlit
+requests
+reportlab
