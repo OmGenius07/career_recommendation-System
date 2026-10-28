@@ -4,7 +4,7 @@ import random
 import httpx
 
 # Read Gemini API key from environment
-API_KEY = "AIzaSyCw9JwR-zo_3aoedLXEASLDM4NcA5jYEQE"
+API_KEY = ""
 
 RETRY_STATUS_CODES = {429, 500, 502, 503, 504}
 
